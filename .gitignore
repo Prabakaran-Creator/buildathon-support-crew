@@ -1,0 +1,10 @@
+# Secrets - never upload these
+.env
+
+# Virtual environment and Python cache
+venv/
+__pycache__/
+*.pyc
+
+# Output file created by the app
+answers.txt
